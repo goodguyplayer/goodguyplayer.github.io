@@ -9,7 +9,7 @@ Here, you'll find custom made tools, resources notes and studies towards various
 Enjoy your stay!
 
 
-[Custom made tools](./customtools.html)
+[Custom made tools](./md/customtools.html)
 
-[Resources notes & Studies](./resourcesnotes.html)
+[Resources notes & Studies](./md/resourcesnotes.html)
 

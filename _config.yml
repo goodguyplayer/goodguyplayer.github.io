@@ -9,7 +9,9 @@ exclude: ['/Gemfile', '/README.md', '/CONTRIBUTING.md', '/CHANGELOG.md']
 
 defaults:
   - scope:
-      path: '_md'
+      path: '/md'
+    values:
+      layout: bin
 
 lsi: false
 safe: true

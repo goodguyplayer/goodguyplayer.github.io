@@ -5,8 +5,11 @@ description: Custom made tools, resources notes and studies & more
 baseurl: ""
 url: ""
 
-
 exclude: ['/Gemfile', '/README.md', '/CONTRIBUTING.md', '/CHANGELOG.md']
+
+defaults:
+  - scope:
+      path: '_md'
 
 lsi: false
 safe: true

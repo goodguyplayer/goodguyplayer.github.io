@@ -19,4 +19,5 @@ url: ""
 | Carolina Gutierrez | Nathan Brito da Silva | Caio Cruz Alfonso |
 | ----------- | ----------- | ----------- |
 | RA: 18.00576-4 | RA: 17.00531-0 | RA: 15.01580-7 |
+| caaroolinag@gmail.com | nathanbritodasilva@gmail.com | caiogarcia96@hotmail.com |
 | https://github.com/CarolinadeCarvalhoGutierrez | https://github.com/goodguyplayer | https://github.com/caio-cruz-garcia |

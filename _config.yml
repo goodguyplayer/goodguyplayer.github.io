@@ -1,9 +1,10 @@
 # Site stuff
-title: Goodguyplayer's site of goodies.
+title: TCC
 email: ""
-description: Custom made tools, resources notes and studies & more
+description: Inteligência Artificial Aplicada a Reconhecimento de Detecção de Ataque
 baseurl: ""
 url: ""
+markdown: GFM
 
 exclude: ['/Gemfile', '/README.md', '/CONTRIBUTING.md', '/CHANGELOG.md']
 

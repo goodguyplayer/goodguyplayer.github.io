@@ -1,15 +1,22 @@
 ---
-layout: default
+title: TCC - Inteligência Artificial Aplicada a Reconhecimento de Detecção de Ataque
+baseurl: ""
+url: ""
 ---
 
 
-Welcome to my page.
-Here, you'll find custom made tools, resources notes and studies towards various things of interest and more resources. And, for fun, some hidden pages. Have fun looking for them. Or simply seeing the commits to find their names.
 
-Enjoy your stay!
+# Repositórios e relacionados
+| Item | Link |
+| ----------- | ----------- |
+| Repositóruo TCC | [Link](https://github.com/goodguyplayer/TCC-POC) |
+| Google colab - Geração IA | [Link](https://colab.research.google.com/drive/1r90nlf7S89W4dtIxqRz5LPvRuSVsgEw7?authuser=3#scrollTo=hbK-5Be_M-qs) |
 
 
-[Custom made tools](./md/customtools.html)
+# Membros
+![Carolina](/md/images/TCC/carolina.png) ![Nathan](/md/images/TCC/nathan.png) ![Caio](/md/images/TCC/caio.png)
 
-[Resources notes & Studies](./md/resourcesnotes.html)
-
+| Carolina Gutierrez | Nathan Brito da Silva | Caio Cruz Alfonso |
+| ----------- | ----------- | ----------- |
+| RA: 18.00576-4 | RA: 17.00531-0 | RA: 15.01580-7 |
+| https://github.com/CarolinadeCarvalhoGutierrez | https://github.com/goodguyplayer | https://github.com/caio-cruz-garcia |

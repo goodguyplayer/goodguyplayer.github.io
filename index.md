@@ -3,10 +3,8 @@ layout: default
 ---
 
 
-Well met!
-
-Welcome to my page, where I display the various softwares I've worked on; Alongside some notes, tools and related.
-
+Well met!  
+Welcome to my page, where I display the various softwares I've worked on; Alongside some notes, tools and related.  
 Enjoy your time!
 
 

@@ -3,10 +3,9 @@ layout: default
 ---
 
 
-Welcome to my page.
-Here, you'll find custom made tools, resources notes and studies towards various things of interest and more resources. And, for fun, some hidden pages. Have fun looking for them. Or simply seeing the commits to find their names.
-
-Enjoy your stay!
+Well met!  
+Welcome to my page, where I display the various softwares I've worked on; Alongside some notes, tools and related.  
+Enjoy your time!
 
 
 [Custom made tools](./md/customtools.html)
